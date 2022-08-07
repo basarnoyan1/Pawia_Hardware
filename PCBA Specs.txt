@@ -1,0 +1,24 @@
+
+PCBA Specs
+sim800C gsm module
+	+-5m locationdata
+	85.6kbps data rate
+	2G 3G 4G Support
+MPU6050 IMU
+	up to +-16G 3 axis acceleration measurement
+	1kHz sample rate
+	Integrated temperaature sensor
+ESP32-CAM
+	2MP camera resolution
+	240Mhz Dual core low power microcontroller
+
+PCBA Idle Power Draw: ~100uA
+PCBA Transmitting Power Draw: ~120mA
+PCBA Estimated Average Power Draw: ~0.5mA
+Power supply efficiency: %50
+Battery life w/ 120mAh battery: 5 days
+
+PCBA Unit Cost: 21.4$@100u
+	ESP32 CAM: 6$
+	Sim800C: 5$
+	PCB and other BOM costs: 10.4$
